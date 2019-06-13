@@ -9,3 +9,4 @@
 亮点：升级到最新的微服务框架，坑很多，当SSO遇上spring gateway，问题更加多。
 http://127.0.0.1:8082/uaa/authentication/require --统一登陆前台
 另外还分享一套后台管理系统，基于微服务框架，前台采用VUE的webpack流程开发，精美漂亮。
+联系QQ：1075228562

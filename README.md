@@ -10,3 +10,5 @@
 http://127.0.0.1:8082/uaa/authentication/require --统一登陆前台
 另外还分享一套后台管理系统，基于微服务框架，前台采用VUE的webpack流程开发，精美漂亮。
 联系QQ：1075228562
+源码（含注释）的获取地址：链接: https://pan.baidu.com/s/1lqbATzEEKmUUecdjDnsN7w 提取码: fim8 
+解压密码：https://www.xiaocifang.com/i/EP7c1708630HA.html

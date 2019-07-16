@@ -1,4 +1,4 @@
-1：2019年新版本的spring cloud框架（boot2，springgateway,SSO,集群配置）
+【最新更新，可分享源码了：】：2019年新版本的spring cloud框架（boot2，springgateway,SSO,集群配置）
 2：eureka集群
 3：springgateway采用动态路由，不停应用加服务，通过redis共享路由信息，方便实现gateway集群
 4：框架内，client1和client2是同一个服务名称的web服务，是您的企业应用前台，通过springgateway负载均衡。
